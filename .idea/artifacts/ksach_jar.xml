@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ksach:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ksach_jar</output-path>
+    <root id="archive" name="ksach.jar">
+      <element id="module-output" name="ksach" />
+    </root>
+  </artifact>
+</component>
